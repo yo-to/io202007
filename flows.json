@@ -1,0 +1,1 @@
+[{"id":"9a7919ea.c5e568","type":"teachable machine","z":"e6dc7e2a.20cd3","name":"","mode":"online","modelUrl":"https://teachablemachine.withgoogle.com/models/●●●/","localModel":"teachable_model","output":"best","activeThreshold":false,"threshold":80,"activeMaxResults":false,"maxResults":3,"passThrough":true,"x":290,"y":40,"wires":[["ea071308.879a9"]]}]
