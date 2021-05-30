@@ -4,3 +4,5 @@
 
 ●IO 2020年 08 月号 [雑誌] | |本 | 通販 | Amazon  
 　https://www.amazon.co.jp/dp/B08C8Z8QNR
+
+[flow.json](https://github.com/yo-to/io202008/blob/master/flows.json) というファイルが、同記事の中で紹介した Node-RED用サンプルのフローになります。
