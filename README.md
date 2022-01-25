@@ -1,5 +1,4 @@
 # I/O 2020年8月号 の Node-RED の記事関連
-
 2020年7月に発売された「[I/O 2020年8月号](http://www.kohgakusha.co.jp/books/detail/4615)」に掲載された Node-RED の連載記事に関するデータを置いたリポジトリです。
 
 ●書籍情報―I/O 2020年8月号  
